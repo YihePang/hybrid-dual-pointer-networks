@@ -327,28 +327,3 @@ class Seq2SeqModel():
 		loss,select_by_time,attention_by_time= sess.run([self.losses,self.select_by_time,self.attention_by_time], feed_dict=feed_dict2)
 		loss_metall = sess.run(self.loss_scalar, feed_dict=feed_dict2)
 		return loss,select_by_time,attention_by_time,loss_metall
-
-
-
-
-					
-
-
-					
-					
-
-				
-					
-
-
-
-
-
-
-
-
-
-
- 
-
-
