@@ -1,4 +1,5 @@
 # hybrid-dual-pointer-networks-for-EMNLP2019-review paper
-This is a temporary repository for emnlp 2019 review paper, long-lived links will be released later.
-Note that it is only used as a supplement to the implementation details of the under review paper.
-We are pleasure to release all the detail codes if the paper is accepted!
+This repository is the main code for the paper "A Deep Neural Network Model for Joint Entity and Relation Extraction", published in the IEEE Access journal.
+The paper is available through the link: https://ieeexplore.ieee.org/document/8880633
+
+Please cite as: Y. Pang, J. Liu, L. Liu, Z. Yu and K. Zhang, "A Deep Neural Network Model for Joint Entity and Relation Extraction," in IEEE Access, vol. 7, pp. 179143-179150, 2019.
